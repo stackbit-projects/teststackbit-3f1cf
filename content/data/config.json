@@ -2,7 +2,7 @@
     "title": "Stackbit",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "red",
+    "accent_color": "white",
     "base_font": "fraunces",
     "header": {
         "title": "Agency",
