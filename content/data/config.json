@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://teststackbit-3f1cf.netlify.app"
 }
